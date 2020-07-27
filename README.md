@@ -3,13 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](http://bit.ly/CrisOspina)
 
-- 🌱 I’m currently learning **NextJS, NodeJS, GraphQL, Docker**
+- 🌱 I’m currently learning **NextJS, NodeJS, GraphQL, Apollo-server - Apollo-client, Docker**
 
 - 📫 How to reach me **crisospina523@gmail.com**
 
 <br>
 
-<p align="center">
+<p>
   <a href="https://twitter.com/crisospina523" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crisospina523" height="20" width="20" />
   </a>
