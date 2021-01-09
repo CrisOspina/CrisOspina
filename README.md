@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Cristian</h1>
-<h3 align="left">A passionate frontend developer from Medellin - Colombia</h3>
+<h3 align="left">A passionate software developer from Medellin - Colombia</h3>
 
 - 👨‍💻 All of my projects are available at [portfolio](http://bit.ly/CrisOspina)
 
