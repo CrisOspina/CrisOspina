@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](http://bit.ly/CrisOspina)
 
-- 🌱 I’m currently learning **Docker 🐳, RabbitMQ 🐰, Microservices ⚛**
+- 🌱 I’m currently learning **Microservices ⚛, RabbitMQ 🐰, Docker 🐳, Kubernetes ☸**
 
 - 📫 How to reach me **crisospina523@gmail.com**
 
