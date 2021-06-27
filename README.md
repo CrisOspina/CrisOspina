@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Cristian</h1>
 <h3 align="left">A passionate software developer from Medellin - Colombia</h3>
 
-- 👨‍💻 All of my projects are available at [portfolio](http://bit.ly/CrisOspina)
-
-- 🌱 I’m currently learning **Microservices ⚛, RabbitMQ 🐰, Docker 🐳, Kubernetes ☸**
+- 🌱 I’m currently learning **Microservices ⚛, RabbitMQ 🐰**
 
 - 📫 How to reach me **crisospina523@gmail.com**
 
