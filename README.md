@@ -1,13 +1,11 @@
 <h1 align="left">Hi 👋, I'm Cristian</h1>
 <h3 align="left">A passionate software developer from Medellin - Colombia</h3>
-
-- 🌱 I’m currently learning **Microservices ⚛, RabbitMQ 🐰**
-
 - 📫 How to reach me **crisospina523@gmail.com**
 
 <br>
 
 <p>
+  <br>
   <a href="https://twitter.com/crisospina523" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="crisospina523" height="20" width="20" />
   </a>
