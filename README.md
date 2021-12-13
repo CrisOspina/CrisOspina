@@ -1,4 +1,4 @@
-[![Cristian Ospina, Hi 👋 I'm a passionate Software Developer from Colombia](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Hi%20%F0%9F%91%8B%20I%27m%20a%20passionate%20Software%20Developer%20from%20Colombia&title=Cristian%20Ospina)](https://pimp-my-readme.webapp.io)
+[![Cristian Ospina, Hi 👋 I'm a passionate Software Developer from Colombia](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Hi%20%F0%9F%91%8B%20I%27m%20a%20passionate%20Software%20Developer%20from%20Colombia&title=Cristian%20Ospina)](https://www.cristianospina.com/)
 
 <p color='white' align='center'>
   <br>
