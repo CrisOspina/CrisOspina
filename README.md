@@ -8,8 +8,8 @@ My name is **Cristian Ospina**, I'm from **Colombia** and I'm an **Software Deve
 ## Skills
 
 - Working with **Javascript Universe** since 2019 - (Vanilla, TS, React, Vue, Svelte, Node) => **JS**
-- Good managing microservices written in languages (Go, Node, PHP)
-- Some Docker, Kubernetes, Rabbit
+- Good managing languages (Node, PHP -> (learning-rust))
+- Some Docker, Kubernetes
 - Critical thinking and problem solving skills
 
 and continue... [My learning path](https://platzi.com/p/CrisOspina)
