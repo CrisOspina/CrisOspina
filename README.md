@@ -7,7 +7,7 @@ My name is **Cristian Ospina**, I'm from **Colombia** and I'm an **Software Deve
 
 ## Skills
 
-- Working with **JavaScript-TypeScript 🤎 ecosystem** since 2019 - (Vanilla, React, Vue, Node, ...rest) => **JS|TS**
+- Working with **JavaScript-TypeScript 🤎 ecosystem** since 2019 - (Vanilla, Svelte, React, Vue, Node, ...rest) => **JS|TS**
 - Good managing languages JavaScript(TypeScript(Node)), PHP, (( ) -> learning [rust, golang] )
 - Some Docker, Kubernetes
 - Critical thinking and problem solving skills
