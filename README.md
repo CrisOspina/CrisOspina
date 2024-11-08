@@ -17,4 +17,3 @@ and continue... [My learning path](https://platzi.com/p/CrisOspina)
 ## Contact
 
 Find all of my socials and resume in my [website 🚀](https://www.cristianospina.dev)
-https://www.clubhub.ai/
